@@ -1,8 +1,8 @@
-# NodeReact-template
+# NodeReact-Template
 
 ## Overview
 
-React Node Template combines the frontend (`React.js`) and backend (`Node.js`) into a single repository for a fullstack template allowing rapid development and quick deployment.
+NodeReact Template combines the  backend (`Node.js`) and the frontend (`React.js`) into a single repository for a fullstack template allowing rapid development and quick deployment.
 
 The frontend template is bootstrapped with `create-react-app` and includes `react-router-dom` and `Material-UI`.
 The backend template is generated through `express`, and includes `nodemon` & `concurrently`.
