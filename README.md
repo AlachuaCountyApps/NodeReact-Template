@@ -19,7 +19,7 @@ In production, the Node server will host the React build and API endpoints.
 
 ### Dev Setup
 
-Intial Set up and installation of dependencies can be done manually
+Initial set up and installation of dependencies can be done manually
 
 1. `cd src/frontend && npm install`
 2. `cd src/backend && npm install`
