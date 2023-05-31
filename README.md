@@ -1,4 +1,4 @@
-# react-node-template
+# NodeReact-template
 
 ## Overview
 
